@@ -1,0 +1,14 @@
+Saya Jason Heinrich Zelim Nrp: C14250126 telah menjalani kelas Data Analytics Essentials yang pertama
+Dari kelas pertama Data Analytics Essentials beberapa hal yang saya pelajari dari kelas Data Analytics Essentials seperti
+
+-Pentingnya data untuk melakukan kegiatan sehari-hari
+-Data yang diperolehpun perlu diolah dan dibuktikan kebenaran data yang didapat dari sumber
+-Bagaimana cara github bekerja
+
+Kelas kemarin juga menjelaskan beberapa jenis analytics seperti
+-Descriptive Analytics
+-Predictive Analytics
+-Prescriptive Analytics
+-Diagnostic Analytics
+
+Saya akan menanti kelas Data Analytics Essentials yang berikutnya
